@@ -1,13 +1,13 @@
-# 🙋 Hello , I am Tuncay Yılmaz ;
-🎓 I am Electrical - Electronics Engineering Student in Marmara University.
-❤️‍🔥 I have passionate about AI , Robotics and Embeeded Systems.
-🦾 I have worked on Robotic Arm Which can translate letters into corresponding sign language letters.
+# 🙋 Hello, I'm Tuncay Yılmaz
 
-# Skills
-Programming Languages : Python , C , Java.
-Hardware : STM32 , Arduino
+🎓 Electrical & Electronics Engineering Student at Marmara University  
+🤖 Passionate about Artificial Intelligence, Robotics, and Embedded Systems  
+🦾 Developed a robotic arm capable of translating letters into corresponding sign language gestures using microcontroller-based control.
 
-# Reach Me 
- 📨 Email : ylmazt61@gmail.com | 
- Linkedin : https://www.linkedin.com/in/tuncay-y%C4%B1lmaz-6113a9307/
+## 🛠 Skills
+- **Programming Languages:** Python, C, Java  
+- **Hardware:** STM32, Arduino, Sensors, Motor Control
 
+## 📬 Reach Me
+- **Email:** [ylmazt61@gmail.com](mailto:ylmazt61@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/tuncay-yilmaz](https://linkedin.com/in/tuncay-yilmaz)
