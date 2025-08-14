@@ -10,4 +10,4 @@
 
 ## 📬 Reach Me
 - **Email:** [ylmazt61@gmail.com](mailto:ylmazt61@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/tuncay-yilmaz](https://linkedin.com/in/tuncay-yilmaz)
+- **LinkedIn:** [linkedin.com/in/tuncay-yilmaz](linkedin.com/in/tuncay-yılmaz-6113a9307)
